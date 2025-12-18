@@ -1,0 +1,13 @@
+Meeting: Product sync — Q4 roadmap
+Attendees: Alice, Bob, Carla
+
+- Discussed timeline for v2 features. Targeting Jan 15 release. Dependencies: design sign-off, API stability.
+- Action: Alice to confirm design by Dec 22.
+- Action: Bob to stabilize API and create integration tests by Jan 5.
+- Decision: Defer internationalization to next quarter.
+- Notes: Customer requests around data export are increasing; consider prioritizing CSV/Excel export next.
+
+Brainstorm:
+- Quick wins: add export button, small UX polish on settings page.
+
+Next meeting: Jan 7, 10:00 AM
